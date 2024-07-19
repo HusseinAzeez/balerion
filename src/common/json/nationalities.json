@@ -1,0 +1,1745 @@
+[
+  {
+    "countryName": "Asia",
+    "countryCode": "AF",
+    "alpha3": "AFG",
+    "nationality": "Afghan",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "AX",
+    "alpha3": "ALA",
+    "nationality": "Åland Island",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "AL",
+    "alpha3": "ALB",
+    "nationality": "Albanian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "DZ",
+    "alpha3": "DZA",
+    "nationality": "Algerian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "AS",
+    "alpha3": "ASM",
+    "nationality": "American Samoan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "AD",
+    "alpha3": "AND",
+    "nationality": "Andorran",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "AO",
+    "alpha3": "AGO",
+    "nationality": "Angolan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "AI",
+    "alpha3": "AIA",
+    "nationality": "Anguillan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Antarctica",
+    "countryCode": "AQ",
+    "alpha3": "ATA",
+    "nationality": "Antarctic",
+    "continentName": "Antarctica"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "AG",
+    "alpha3": "ATG",
+    "nationality": "Antiguan or Barbudan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "AR",
+    "alpha3": "ARG",
+    "nationality": "Argentine",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "AM",
+    "alpha3": "ARM",
+    "nationality": "Armenian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "AW",
+    "alpha3": "ABW",
+    "nationality": "Aruban",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "AU",
+    "alpha3": "AUS",
+    "nationality": "Australian",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "AT",
+    "alpha3": "AUT",
+    "nationality": "Austrian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "AZ",
+    "alpha3": "AZE",
+    "nationality": "Azerbaijani, Azeri",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BS",
+    "alpha3": "BHS",
+    "nationality": "Bahamian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "BH",
+    "alpha3": "BHR",
+    "nationality": "Bahraini",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "BD",
+    "alpha3": "BGD",
+    "nationality": "Bangladeshi",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BB",
+    "alpha3": "BRB",
+    "nationality": "Barbadian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "BY",
+    "alpha3": "BLR",
+    "nationality": "Belarusian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "BE",
+    "alpha3": "BEL",
+    "nationality": "Belgian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BZ",
+    "alpha3": "BLZ",
+    "nationality": "Belizean",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "BJ",
+    "alpha3": "BEN",
+    "nationality": "Beninese, Beninois",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BM",
+    "alpha3": "BMU",
+    "nationality": "Bermudian, Bermudan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "BT",
+    "alpha3": "BTN",
+    "nationality": "Bhutanese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "BO",
+    "alpha3": "BOL",
+    "nationality": "Bolivian",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BQ",
+    "alpha3": "BES",
+    "nationality": "Bonaire",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "BA",
+    "alpha3": "BIH",
+    "nationality": "Bosnian or Herzegovinian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "BW",
+    "alpha3": "BWA",
+    "nationality": "Motswana, Botswanan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Antarctica",
+    "countryCode": "BV",
+    "alpha3": "BVT",
+    "nationality": "Bouvet Island",
+    "continentName": "Antarctica"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "BR",
+    "alpha3": "BRA",
+    "nationality": "Brazilian",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "IO",
+    "alpha3": "IOT",
+    "nationality": "BIOT",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "BN",
+    "alpha3": "BRN",
+    "nationality": "Bruneian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "BG",
+    "alpha3": "BGR",
+    "nationality": "Bulgarian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "BF",
+    "alpha3": "BFA",
+    "nationality": "Burkinabé",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "BI",
+    "alpha3": "BDI",
+    "nationality": "Burundian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CV",
+    "alpha3": "CPV",
+    "nationality": "Cabo Verdean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KH",
+    "alpha3": "KHM",
+    "nationality": "Cambodian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CM",
+    "alpha3": "CMR",
+    "nationality": "Cameroonian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "CA",
+    "alpha3": "CAN",
+    "nationality": "Canadian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "KY",
+    "alpha3": "CYM",
+    "nationality": "Caymanian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CF",
+    "alpha3": "CAF",
+    "nationality": "Central African",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "TD",
+    "alpha3": "TCD",
+    "nationality": "Chadian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "CL",
+    "alpha3": "CHL",
+    "nationality": "Chilean",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "CN",
+    "alpha3": "CHN",
+    "nationality": "Chinese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "CX",
+    "alpha3": "CXR",
+    "nationality": "Christmas Island",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "CC",
+    "alpha3": "CCK",
+    "nationality": "Cocos Island",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "CO",
+    "alpha3": "COL",
+    "nationality": "Colombian",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "KM",
+    "alpha3": "COM",
+    "nationality": "Comoran, Comorian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CG",
+    "alpha3": "COG",
+    "nationality": "Congolese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CD",
+    "alpha3": "COD",
+    "nationality": "Congolese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "CK",
+    "alpha3": "COK",
+    "nationality": "Cook Island",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "CR",
+    "alpha3": "CRI",
+    "nationality": "Costa Rican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "CI",
+    "alpha3": "CIV",
+    "nationality": "Ivorian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "HR",
+    "alpha3": "HRV",
+    "nationality": "Croatian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "CU",
+    "alpha3": "CUB",
+    "nationality": "Cuban",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "CW",
+    "alpha3": "CUW",
+    "nationality": "Curaçaoan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "CY",
+    "alpha3": "CYP",
+    "nationality": "Cypriot",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "CZ",
+    "alpha3": "CZE",
+    "nationality": "Czech",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "DK",
+    "alpha3": "DNK",
+    "nationality": "Danish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "DJ",
+    "alpha3": "DJI",
+    "nationality": "Djiboutian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "DM",
+    "alpha3": "DMA",
+    "nationality": "Dominican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "DO",
+    "alpha3": "DOM",
+    "nationality": "Dominican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "EC",
+    "alpha3": "ECU",
+    "nationality": "Ecuadorian",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "EG",
+    "alpha3": "EGY",
+    "nationality": "Egyptian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "SV",
+    "alpha3": "SLV",
+    "nationality": "Salvadoran",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GQ",
+    "alpha3": "GNQ",
+    "nationality": "Equatorial Guinean, Equatoguinean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ER",
+    "alpha3": "ERI",
+    "nationality": "Eritrean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "EE",
+    "alpha3": "EST",
+    "nationality": "Estonian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ET",
+    "alpha3": "ETH",
+    "nationality": "Ethiopian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "FK",
+    "alpha3": "FLK",
+    "nationality": "Falkland Island",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "FO",
+    "alpha3": "FRO",
+    "nationality": "Faroese",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "FJ",
+    "alpha3": "FJI",
+    "nationality": "Fijian",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "FI",
+    "alpha3": "FIN",
+    "nationality": "Finnish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "FR",
+    "alpha3": "FRA",
+    "nationality": "French",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "GF",
+    "alpha3": "GUF",
+    "nationality": "French Guianese",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "PF",
+    "alpha3": "PYF",
+    "nationality": "French Polynesian",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Antarctica",
+    "countryCode": "TF",
+    "alpha3": "ATF",
+    "nationality": "French Southern Territories",
+    "continentName": "Antarctica"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GA",
+    "alpha3": "GAB",
+    "nationality": "Gabonese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GM",
+    "alpha3": "GMB",
+    "nationality": "Gambian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "GE",
+    "alpha3": "GEO",
+    "nationality": "Georgian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "DE",
+    "alpha3": "DEU",
+    "nationality": "German",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GH",
+    "alpha3": "GHA",
+    "nationality": "Ghanaian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "GI",
+    "alpha3": "GIB",
+    "nationality": "Gibraltar",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "GR",
+    "alpha3": "GRC",
+    "nationality": "Greek, Hellenic",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "GL",
+    "alpha3": "GRL",
+    "nationality": "Greenlandic",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "GD",
+    "alpha3": "GRD",
+    "nationality": "Grenadian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "GP",
+    "alpha3": "GLP",
+    "nationality": "Guadeloupe",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "GU",
+    "alpha3": "GUM",
+    "nationality": "Guamanian, Guambat",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "GT",
+    "alpha3": "GTM",
+    "nationality": "Guatemalan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "GG",
+    "alpha3": "GGY",
+    "nationality": "Channel Island",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GN",
+    "alpha3": "GIN",
+    "nationality": "Guinean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "GW",
+    "alpha3": "GNB",
+    "nationality": "Bissau-Guinean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "GY",
+    "alpha3": "GUY",
+    "nationality": "Guyanese",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "HT",
+    "alpha3": "HTI",
+    "nationality": "Haitian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Antarctica",
+    "countryCode": "HM",
+    "alpha3": "HMD",
+    "nationality": "Heard Island or McDonald Islands",
+    "continentName": "Antarctica"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "VA",
+    "alpha3": "VAT",
+    "nationality": "Vatican",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "HN",
+    "alpha3": "HND",
+    "nationality": "Honduran",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "HK",
+    "alpha3": "HKG",
+    "nationality": "Hong Kong, Hong Kongese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "HU",
+    "alpha3": "HUN",
+    "nationality": "Hungarian, Magyar",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "IS",
+    "alpha3": "ISL",
+    "nationality": "Icelandic",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "IN",
+    "alpha3": "IND",
+    "nationality": "Indian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "ID",
+    "alpha3": "IDN",
+    "nationality": "Indonesian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "IR",
+    "alpha3": "IRN",
+    "nationality": "Iranian, Persian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "IQ",
+    "alpha3": "IRQ",
+    "nationality": "Iraqi",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "IE",
+    "alpha3": "IRL",
+    "nationality": "Irish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "IM",
+    "alpha3": "IMN",
+    "nationality": "Manx",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "IL",
+    "alpha3": "ISR",
+    "nationality": "Israeli",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "IT",
+    "alpha3": "ITA",
+    "nationality": "Italian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "JM",
+    "alpha3": "JAM",
+    "nationality": "Jamaican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "JP",
+    "alpha3": "JPN",
+    "nationality": "Japanese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "JE",
+    "alpha3": "JEY",
+    "nationality": "Channel Island",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "JO",
+    "alpha3": "JOR",
+    "nationality": "Jordanian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KZ",
+    "alpha3": "KAZ",
+    "nationality": "Kazakhstani, Kazakh",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "KE",
+    "alpha3": "KEN",
+    "nationality": "Kenyan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "KI",
+    "alpha3": "KIR",
+    "nationality": "I-Kiribati",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KP",
+    "alpha3": "PRK",
+    "nationality": "North Korean",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KR",
+    "alpha3": "KOR",
+    "nationality": "South Korean",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KW",
+    "alpha3": "KWT",
+    "nationality": "Kuwaiti",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "KG",
+    "alpha3": "KGZ",
+    "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "LA",
+    "alpha3": "LAO",
+    "nationality": "Lao, Laotian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "LV",
+    "alpha3": "LVA",
+    "nationality": "Latvian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "LB",
+    "alpha3": "LBN",
+    "nationality": "Lebanese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "LS",
+    "alpha3": "LSO",
+    "nationality": "Basotho",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "LR",
+    "alpha3": "LBR",
+    "nationality": "Liberian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "LY",
+    "alpha3": "LBY",
+    "nationality": "Libyan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "LI",
+    "alpha3": "LIE",
+    "nationality": "Liechtenstein",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "LT",
+    "alpha3": "LTU",
+    "nationality": "Lithuanian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "LU",
+    "alpha3": "LUX",
+    "nationality": "Luxembourg, Luxembourgish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "MO",
+    "alpha3": "MAC",
+    "nationality": "Macanese, Chinese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "MK",
+    "alpha3": "MKD",
+    "nationality": "Macedonian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MG",
+    "alpha3": "MDG",
+    "nationality": "Malagasy",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MW",
+    "alpha3": "MWI",
+    "nationality": "Malawian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "MY",
+    "alpha3": "MYS",
+    "nationality": "Malaysian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "MV",
+    "alpha3": "MDV",
+    "nationality": "Maldivian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ML",
+    "alpha3": "MLI",
+    "nationality": "Malian, Malinese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "MT",
+    "alpha3": "MLT",
+    "nationality": "Maltese",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "MH",
+    "alpha3": "MHL",
+    "nationality": "Marshallese",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "MQ",
+    "alpha3": "MTQ",
+    "nationality": "Martiniquais, Martinican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MR",
+    "alpha3": "MRT",
+    "nationality": "Mauritanian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MU",
+    "alpha3": "MUS",
+    "nationality": "Mauritian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "YT",
+    "alpha3": "MYT",
+    "nationality": "Mahoran",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "MX",
+    "alpha3": "MEX",
+    "nationality": "Mexican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "FM",
+    "alpha3": "FSM",
+    "nationality": "Micronesian",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "MD",
+    "alpha3": "MDA",
+    "nationality": "Moldovan",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "MC",
+    "alpha3": "MCO",
+    "nationality": "Monégasque, Monacan",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "MN",
+    "alpha3": "MNG",
+    "nationality": "Mongolian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "ME",
+    "alpha3": "MNE",
+    "nationality": "Montenegrin",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "MS",
+    "alpha3": "MSR",
+    "nationality": "Montserratian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MA",
+    "alpha3": "MAR",
+    "nationality": "Moroccan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "MZ",
+    "alpha3": "MOZ",
+    "nationality": "Mozambican",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "MM",
+    "alpha3": "MMR",
+    "nationality": "Burmese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "NA",
+    "alpha3": "NAM",
+    "nationality": "Namibian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "NR",
+    "alpha3": "NRU",
+    "nationality": "Nauruan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "NP",
+    "alpha3": "NPL",
+    "nationality": "Nepali, Nepalese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "NL",
+    "alpha3": "NLD",
+    "nationality": "Dutch, Netherlandic",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "NC",
+    "alpha3": "NCL",
+    "nationality": "New Caledonian",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "NZ",
+    "alpha3": "NZL",
+    "nationality": "New Zealand, NZ",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "NI",
+    "alpha3": "NIC",
+    "nationality": "Nicaraguan",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "NE",
+    "alpha3": "NER",
+    "nationality": "Nigerien",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "NG",
+    "alpha3": "NGA",
+    "nationality": "Nigerian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "NU",
+    "alpha3": "NIU",
+    "nationality": "Niuean",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "NF",
+    "alpha3": "NFK",
+    "nationality": "Norfolk Island",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "MP",
+    "alpha3": "MNP",
+    "nationality": "Northern Marianan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "NO",
+    "alpha3": "NOR",
+    "nationality": "Norwegian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "OM",
+    "alpha3": "OMN",
+    "nationality": "Omani",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "PK",
+    "alpha3": "PAK",
+    "nationality": "Pakistani",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "PW",
+    "alpha3": "PLW",
+    "nationality": "Palauan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "PS",
+    "alpha3": "PSE",
+    "nationality": "Palestinian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "PA",
+    "alpha3": "PAN",
+    "nationality": "Panamanian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "PG",
+    "alpha3": "PNG",
+    "nationality": "Papua New Guinean, Papuan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "PY",
+    "alpha3": "PRY",
+    "nationality": "Paraguayan",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "PE",
+    "alpha3": "PER",
+    "nationality": "Peruvian",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "PH",
+    "alpha3": "PHL",
+    "nationality": "Philippine, Filipino",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "PN",
+    "alpha3": "PCN",
+    "nationality": "Pitcairn Island",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "PL",
+    "alpha3": "POL",
+    "nationality": "Polish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "PT",
+    "alpha3": "PRT",
+    "nationality": "Portuguese",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "PR",
+    "alpha3": "PRI",
+    "nationality": "Puerto Rican",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "QA",
+    "alpha3": "QAT",
+    "nationality": "Qatari",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "RE",
+    "alpha3": "REU",
+    "nationality": "Réunionese, Réunionnais",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "RO",
+    "alpha3": "ROU",
+    "nationality": "Romanian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "RU",
+    "alpha3": "RUS",
+    "nationality": "Russian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "RW",
+    "alpha3": "RWA",
+    "nationality": "Rwandan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "BL",
+    "alpha3": "BLM",
+    "nationality": "Barthélemois",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SH",
+    "alpha3": "SHN",
+    "nationality": "Saint Helenian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "KN",
+    "alpha3": "KNA",
+    "nationality": "Kittitian or Nevisian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "LC",
+    "alpha3": "LCA",
+    "nationality": "Saint Lucian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "MF",
+    "alpha3": "MAF",
+    "nationality": "Saint-Martinoise",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "PM",
+    "alpha3": "SPM",
+    "nationality": "Saint-Pierrais or Miquelonnais",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "VC",
+    "alpha3": "VCT",
+    "nationality": "Saint Vincentian, Vincentian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "WS",
+    "alpha3": "WSM",
+    "nationality": "Samoan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "SM",
+    "alpha3": "SMR",
+    "nationality": "Sammarinese",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ST",
+    "alpha3": "STP",
+    "nationality": "São Toméan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "SA",
+    "alpha3": "SAU",
+    "nationality": "Saudi, Saudi Arabian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SN",
+    "alpha3": "SEN",
+    "nationality": "Senegalese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "RS",
+    "alpha3": "SRB",
+    "nationality": "Serbian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SC",
+    "alpha3": "SYC",
+    "nationality": "Seychellois",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SL",
+    "alpha3": "SLE",
+    "nationality": "Sierra Leonean",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "SG",
+    "alpha3": "SGP",
+    "nationality": "Singaporean",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "SX",
+    "alpha3": "SXM",
+    "nationality": "Sint Maarten",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "SK",
+    "alpha3": "SVK",
+    "nationality": "Slovak",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "SI",
+    "alpha3": "SVN",
+    "nationality": "Slovenian, Slovene",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "SB",
+    "alpha3": "SLB",
+    "nationality": "Solomon Island",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SO",
+    "alpha3": "SOM",
+    "nationality": "Somali, Somalian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ZA",
+    "alpha3": "ZAF",
+    "nationality": "South African",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Antarctica",
+    "countryCode": "GS",
+    "alpha3": "SGS",
+    "nationality": "South Georgia or South Sandwich Islands",
+    "continentName": "Antarctica"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SS",
+    "alpha3": "SSD",
+    "nationality": "South Sudanese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "ES",
+    "alpha3": "ESP",
+    "nationality": "Spanish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "LK",
+    "alpha3": "LKA",
+    "nationality": "Sri Lankan",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SD",
+    "alpha3": "SDN",
+    "nationality": "Sudanese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "SR",
+    "alpha3": "SUR",
+    "nationality": "Surinamese",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "SJ",
+    "alpha3": "SJM",
+    "nationality": "Svalbard",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "SZ",
+    "alpha3": "SWZ",
+    "nationality": "Swazi",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "SE",
+    "alpha3": "SWE",
+    "nationality": "Swedish",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "CH",
+    "alpha3": "CHE",
+    "nationality": "Swiss",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "SY",
+    "alpha3": "SYR",
+    "nationality": "Syrian",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "TW",
+    "alpha3": "TWN",
+    "nationality": "Chinese, Taiwanese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "TJ",
+    "alpha3": "TJK",
+    "nationality": "Tajikistani",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "TZ",
+    "alpha3": "TZA",
+    "nationality": "Tanzanian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "TH",
+    "alpha3": "THA",
+    "nationality": "Thai",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "TL",
+    "alpha3": "TLS",
+    "nationality": "Timorese",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "TG",
+    "alpha3": "TGO",
+    "nationality": "Togolese",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "TK",
+    "alpha3": "TKL",
+    "nationality": "Tokelauan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "TO",
+    "alpha3": "TON",
+    "nationality": "Tongan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "TT",
+    "alpha3": "TTO",
+    "nationality": "Trinidadian or Tobagonian",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "TN",
+    "alpha3": "TUN",
+    "nationality": "Tunisian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "TR",
+    "alpha3": "TUR",
+    "nationality": "Turkish",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "TM",
+    "alpha3": "TKM",
+    "nationality": "Turkmen",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "TC",
+    "alpha3": "TCA",
+    "nationality": "Turks and Caicos Island",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "TV",
+    "alpha3": "TUV",
+    "nationality": "Tuvaluan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "UG",
+    "alpha3": "UGA",
+    "nationality": "Ugandan",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "UA",
+    "alpha3": "UKR",
+    "nationality": "Ukrainian",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "AE",
+    "alpha3": "ARE",
+    "nationality": "Emirati, Emirian, Emiri",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Europe",
+    "countryCode": "GB",
+    "alpha3": "GBR",
+    "nationality": "British, UK",
+    "continentName": "Europe"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "UM",
+    "alpha3": "UMI",
+    "nationality": "American",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "US",
+    "alpha3": "USA",
+    "nationality": "American",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "UY",
+    "alpha3": "URY",
+    "nationality": "Uruguayan",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "UZ",
+    "alpha3": "UZB",
+    "nationality": "Uzbekistani, Uzbek",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "VU",
+    "alpha3": "VUT",
+    "nationality": "Ni-Vanuatu, Vanuatuan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "South America",
+    "countryCode": "VE",
+    "alpha3": "VEN",
+    "nationality": "Venezuelan",
+    "continentName": "South America"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "VN",
+    "alpha3": "VNM",
+    "nationality": "Vietnamese",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "VG",
+    "alpha3": "VGB",
+    "nationality": "British Virgin Island",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "North America",
+    "countryCode": "VI",
+    "alpha3": "VIR",
+    "nationality": "U.S. Virgin Island",
+    "continentName": "North America"
+  },
+  {
+    "countryName": "Oceania",
+    "countryCode": "WF",
+    "alpha3": "WLF",
+    "nationality": "Wallis and Futuna, Wallisian or Futunan",
+    "continentName": "Oceania"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "EH",
+    "alpha3": "ESH",
+    "nationality": "Sahrawi, Sahrawian, Sahraouian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Asia",
+    "countryCode": "YE",
+    "alpha3": "YEM",
+    "nationality": "Yemeni",
+    "continentName": "Asia"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ZM",
+    "alpha3": "ZMB",
+    "nationality": "Zambian",
+    "continentName": "Africa"
+  },
+  {
+    "countryName": "Africa",
+    "countryCode": "ZW",
+    "alpha3": "ZWE",
+    "nationality": "Zimbabwean",
+    "continentName": "Africa"
+  }
+]
