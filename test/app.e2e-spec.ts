@@ -8,7 +8,7 @@ describe('AppController (e2e)', () => {
   });
 
   describe('GET /', () => {
-      it('TC0000003, Should reorder products after deleting one', async () => {
+      it('Should reorder products after deleting one', async () => {
           expect(true).toEqual(true);
           expect(1).toEqual(1);
       });
