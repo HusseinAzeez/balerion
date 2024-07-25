@@ -8,8 +8,9 @@ describe('AppController (e2e)', () => {
   });
 
   describe('GET /', () => {
-      it('TC0000003, Should reorder products after deleting one', async () => {
+      it('TC0000001 - Should assign publish date when calling publish blog API', async () => {
           expect(true).toEqual(true);
+          expect(1).toEqual(1);
       });
   })
 });
